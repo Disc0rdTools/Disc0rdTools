@@ -1,9 +1,9 @@
 # Hi there, I'm DigitalCord 👋
 
 ## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@digitalcordtools) 
-Discord: `digitalcord`
-<a href="https://discord.com/users/173110521036406785"><img height="100px" src="https://discord.c99.nl/widget/theme-4/173110521036406785.png"/></a>
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@digitalcordtools)  
+Discord: `digitalcord`  
+<a href="https://discord.com/users/173110521036406785"><img height="100px" src="https://discord.c99.nl/widget/theme-4/173110521036406785.png"/></a>  
 Telegram: `@digitalcord`
 
 # 💻 Tech Stack:
@@ -15,5 +15,4 @@ Telegram: `@digitalcord`
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Disc0rdTools&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Disc0rdTools&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)  
